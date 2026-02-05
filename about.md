@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+About me:
+I am currently a student at Hendrix College and am on my 2nd year here. I am majoring Computer Science and minoring in Music and hope to one day write music for video games and even create one of my own. I am currently working on creating a rogue-like 2D game with one of my friends. I am also beginning to get in contact with one of the professors of music here at Hendrix to point me in the right direction when making music for this game. Some of my hobbies include gaming, cooking, and writing music. My favorite games are Risk of Rain 2, God of War Ragnorok, and Detroit Become Human. My favorite food is Sushi and I enjoy listening to Laufey, with my favorite song being Falling Behind. 
