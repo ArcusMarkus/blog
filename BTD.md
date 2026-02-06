@@ -3,6 +3,12 @@ layout: page
 title: BTD6
 permalink: /BTD/
 ---
+<style>
+    body{
+        background: black;
+    }
+    
+</style>
 
 <style> 
     h1{
