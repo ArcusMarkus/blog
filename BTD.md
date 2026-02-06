@@ -7,7 +7,7 @@ permalink: /BTD/
     body{
         background: black;
     }
-    
+
 </style>
 
 <style> 
@@ -18,6 +18,12 @@ permalink: /BTD/
         border-right: 2px solid black;
         color: white;
         background-color: black;
+    }
+</style>
+
+<style>
+    p{
+        color: white;
     }
 </style>
 
