@@ -6,7 +6,11 @@
   "minima/initialize";
 
   .page-content{
-    background-color: rgb(0, 91, 27);
+    background-color: #7A5C58;
+    border: 2px outset rgb(69, 53, 46);
+    padding: 2px 3px;
+    display: inline-block;
+    border-radius: 4px;
     p{
       color: white;
     }
@@ -25,41 +29,37 @@
     background-color: rgb(251, 190, 201);
 
     .site-title{
-      border: 2px outset black;
+      border: 2px outset rgb(69, 53, 46);
       padding: 5px 10px;
       display: inline-block;
       border-radius: 4px;
-      background-color: rgb(0, 91, 27);
-      color: rgb(251, 190, 201);
+      background-color: #7A5C58;
+      color: #F9DCE8;
     }
 
     .nav-item{
-      border: 2px outset black;
+      border: 2px outset rgb(69, 53, 46);
       padding: 2px 3px;
       display: inline-block;
       border-radius: 2px;
-      background-color: rgb(0, 91, 27);
-      color: rgb(251, 190, 201);
+      background-color: #7A5C58;
+      color: #F9DCE8;
       font-size: medium;
     }
   }
 
-  .site-footer{
-    background-color: rgb(251, 190, 201);    
-  }
-
   .footer-col-wrapper{
     color: rgb(255, 255, 255);
-    background-color: rgb(0, 91, 27);
+    background-color: #7A5C58;
     font-size: medium;
   }
 
   a.post-link{
-    background-color: rgb(0, 91, 27);
+    background-color: #7A5C58;
     padding: 1px 1px;
     display: inline-block;
     border-radius: 2px;
-    color: rgb(251, 190, 201);
+    color: #F9DCE8;
   }
 
   .post-meta{
