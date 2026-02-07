@@ -4,13 +4,18 @@ title: BTD6
 permalink: /BTD/
 ---
 
+
 <style>
-    .page-title {
+    .title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
     color: white;
   }
 
-  .page-title::before,
-  .page-title::after {
+  .title::before,
+  .title::after {
     content: "";
     width: 50px;
     height: 50px;
@@ -18,7 +23,8 @@ permalink: /BTD/
     background-size: contain;
     background-repeat: no-repeat;
   }
-  .page-title::before {
+
+  .title::before {
     transform: scaleX(-1);
   }
 </style>
