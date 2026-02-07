@@ -4,11 +4,24 @@ title: BTD6
 permalink: /BTD/
 ---
 
-<div style="display: flex;">
-  <img src="https://tse3.mm.bing.net/th/id/OIP.p5YFFhl9lpmFUmtnTEbNqgHaEw?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Balloon" style="width: 50px; height: 50px; background-color: black; transform: scaleX(-1)">
-  <h1 style="color: white;">BTD6</h1>
-  <img src="https://tse3.mm.bing.net/th/id/OIP.p5YFFhl9lpmFUmtnTEbNqgHaEw?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Balloon" style="width: 50px; height: 50px; background-color: black;">
-</div>
+<style>
+    .page-title {
+    color: white;
+  }
+
+  .page-title::before,
+  .page-title::after {
+    content: "";
+    width: 50px;
+    height: 50px;
+    background-image: url("https://www.bloonswiki.com/images/5/57/BTD6_bloon_Red.png?version=fb9a96a2680b5adeb06c4abe94d9018f");
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .page-title::before {
+    transform: scaleX(-1);
+  }
+</style>
 
 <style>
     body{
