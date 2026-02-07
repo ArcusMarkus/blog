@@ -21,13 +21,6 @@ permalink: /BTD/
   }
 </style>
 
-<style>
-    body{
-        background: black;
-    }
-
-</style>
-
 
 <style>
     p{

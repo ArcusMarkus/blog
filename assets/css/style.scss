@@ -34,7 +34,7 @@
       display: inline-block;
       border-radius: 4px;
       background-color: #7A5C58;
-      color: #F9DCE8;
+      color: #3A405A;
     }
 
     .nav-item{
@@ -48,6 +48,9 @@
     }
   }
 
+  .footer{
+    background-color: #7A5C58;
+  }
   .footer-col-wrapper{
     color: rgb(255, 255, 255);
     background-color: #7A5C58;
@@ -56,6 +59,7 @@
 
   a.post-link{
     background-color: #7A5C58;
+    border-bottom: #3A405A;
     padding: 1px 1px;
     display: inline-block;
     border-radius: 2px;
