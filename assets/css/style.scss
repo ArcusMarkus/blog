@@ -25,15 +25,18 @@
     background-color: rgb(251, 190, 201);
 
     .site-title{
-      color: white;
+      border-style: outset;
+      color: rgb(174, 255, 174);
     }
 
     .nav-item{
-      color: white;
+      border-style: outset;
+      color: rgb(174, 255, 174);
     }
 
     .a{
-      color: white;
+      border-style: outset;
+      color: rgb(174, 255, 174);
     }
   }
 
@@ -48,8 +51,7 @@
 
   a.post-link{
     background-color: rgb(251, 190, 201);
-
-    color: rgb(205, 255, 212);
+    color: rgb(84, 255, 107);
   }
 
   .post-meta{
