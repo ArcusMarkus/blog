@@ -28,13 +28,6 @@ permalink: /BTD/
 
 </style>
 
-
-<style>
-    p{
-        color: white;
-    }
-</style>
-
 <style>
     img {
             float: right;
