@@ -8,3 +8,23 @@
   .page-content{
     background-color: black;
   }
+
+  .post-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    color: white;
+  }
+
+  .site-header{
+    background-color: rgb(255,234,238);
+  }
+
+  .site-footer{
+    background-color: rgb(255,234,238);
+  }
+
+  .post-link{
+    color: red;
+  }

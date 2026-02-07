@@ -6,14 +6,6 @@ permalink: /BTD/
 
 
 <style>
-    .post-title {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
-    color: white;
-  }
-
   .post-title::before,
   .post-title::after {
     content: "";
