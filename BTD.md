@@ -31,7 +31,7 @@ permalink: /BTD/
 
 <style>
     p{
-        color: rgb(144, 255, 159);
+        color: rgb(255, 255, 255);
     }
 </style>
 
