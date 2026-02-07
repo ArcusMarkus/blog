@@ -7,6 +7,9 @@
 
   .page-content{
     background-color: black;
+    p{
+      color: white;
+    }
   }
 
   .post-title {
@@ -17,9 +20,6 @@
     color: white;
   }
 
-  .p{
-    color: white;
-  }
 
   .site-header{
     background-color: rgb(251, 190, 201);
@@ -28,10 +28,12 @@
   .site-footer{
     background-color: rgb(251, 190, 201);
     color: rgb(255, 255, 255);
+    
   }
 
-  .post-link{
+  a.post-link{
     background-color: rgb(251, 190, 201);
+
     color: rgb(205, 255, 212);
   }
 
