@@ -6,7 +6,7 @@ permalink: /BTD/
 
 
 <style>
-    .title {
+    .post-title {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,8 +14,8 @@ permalink: /BTD/
     color: white;
   }
 
-  .title::before,
-  .title::after {
+  .post-title::before,
+  .post-title::after {
     content: "";
     width: 50px;
     height: 50px;
@@ -24,7 +24,7 @@ permalink: /BTD/
     background-repeat: no-repeat;
   }
 
-  .title::before {
+  .post-title::before {
     transform: scaleX(-1);
   }
 </style>
