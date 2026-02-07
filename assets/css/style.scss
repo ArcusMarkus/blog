@@ -23,12 +23,27 @@
 
   .site-header{
     background-color: rgb(251, 190, 201);
+
+    .site-title{
+      color: white;
+    }
+
+    .nav-item{
+      color: white;
+    }
+
+    .a{
+      color: white;
+    }
   }
 
   .site-footer{
-    background-color: rgb(251, 190, 201);
+    background-color: rgb(251, 190, 201);    
+  }
+
+  .footer-col-wrapper{
     color: rgb(255, 255, 255);
-    
+
   }
 
   a.post-link{
