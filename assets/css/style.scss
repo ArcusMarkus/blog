@@ -26,16 +26,19 @@
 
     .site-title{
       border: 2px outset black;
+      padding: 5px 10px;
+      display: inline-block;
+      border-radius: 4px;
+      background-color: black;
       color: rgb(174, 255, 174);
     }
 
     .nav-item{
       border: 2px outset black;
-      color: rgb(174, 255, 174);
-    }
-
-    .a{
-      border: 2px outset black;
+      padding: 5px 10px;
+      display: inline-block;
+      border-radius: 4px;
+      background-color: black;
       color: rgb(174, 255, 174);
     }
   }
@@ -46,11 +49,18 @@
 
   .footer-col-wrapper{
     color: rgb(255, 255, 255);
+    padding: 2px 5px;
+    display: inline-block;
+    border-radius: 4px;
+    background-color: black;
 
   }
 
   a.post-link{
     background-color: rgb(251, 190, 201);
+    padding: 2px 5px;
+    display: inline-block;
+    border-radius: 4px;
     color: rgb(84, 255, 107);
   }
 
