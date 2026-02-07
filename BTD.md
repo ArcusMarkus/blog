@@ -3,6 +3,13 @@ layout: page
 title: BTD6
 permalink: /BTD/
 ---
+
+<div style="display: flex;">
+  <img src="https://tse3.mm.bing.net/th/id/OIP.p5YFFhl9lpmFUmtnTEbNqgHaEw?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Balloon" style="width: 50px; height: 50px; transform: scaleX(-1)">
+  <h1 style="color: white;">BTD6</h1>
+  <img src="https://tse3.mm.bing.net/th/id/OIP.p5YFFhl9lpmFUmtnTEbNqgHaEw?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Balloon" style="width: 50px; height: 50px; transform: scaleX(-1)">
+</div>
+
 <style>
     body{
         background: black;
@@ -10,16 +17,6 @@ permalink: /BTD/
 
 </style>
 
-<style> 
-    h1{
-        border-bottom: 2px solid black;
-        border-top: 2px solid black;
-        border-left: 2px solid black;
-        border-right: 2px solid black;
-        color: white;
-        background-color: black;
-    }
-</style>
 
 <style>
     p{
