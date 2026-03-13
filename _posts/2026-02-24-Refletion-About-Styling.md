@@ -12,4 +12,4 @@ This post is about the new styling I added to this website. I got very carried a
 
 [Color Wheel]: https://observablehq.com/@shan/oklab-color-wheel
 [Color Generator]: https://colors.reprdev.com/
-[Fallout Terminal Text]:({{ '/assets/images/Fallout_Font_Pic.jpg' | relative_url }})
+[Fallout Terminal Text]({{ '/assets/images/Fallout_Font_Pic.jpg' | relative_url }})
