@@ -1,0 +1,5 @@
+---
+layout: post
+---
+
+This is my reflection over lab 8. This tutorial was much easier to follow than the tutorial for lab 9. Their were much less erros but I still ran into them because the tutorial is somewhat outdated. The easiest part was definitely setting up the project and using scaffolding to to create the create, index, delete and all that jazz. I still struggles with migrations and entity framework stuff, pretty much the exact same issues on lab 9. I also had a lot of package version issues but I thankfully got those sorted. It was difficult to trnslate into my own application because I had to make sure everything was connected properly. I feel like the Razor pages framework is a lot harder but it supports more then jekyll like databases. I also still have beef with jekyll so honestly anything is better then it. After completing this lab I definetely feel more knowledgable about making Razor applications especially since I did this lab after lab 9.
